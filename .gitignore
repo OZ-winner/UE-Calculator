@@ -1,0 +1,38 @@
+# ---------------- 引擎生成 ----------------
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+/Windows/
+
+# ---------------- IDE / 编辑器缓存 ----------------
+.vs/
+.idea/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+
+# ---------------- UBT 生成的项目文件 ----------------
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# ---------------- 打包中间产物 ----------------
+/Build/Windows/FileOpenOrder/
+
+# ---------------- 备份 / 临时 / 调试 ----------------
+*.bak
+*.bak_*
+*.tmp
+*.dmp
+*.log.backup
+
+# ---------------- 系统 ----------------
+Thumbs.db
+.DS_Store
+desktop.ini
